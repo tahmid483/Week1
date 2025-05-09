@@ -1,0 +1,69 @@
+1 2 3 4 can do python more
+ The result is 450
+Given list: [10, 20, 30, 40, 10]
+result is True
+Given list: [75, 65, 35, 75, 30]
+result is False
+Given list is [10, 20, 33, 46, 55]
+Divisible by 5
+10
+20
+55
+Anjali appeared 2 times
+1 
+2 2 
+3 3 3 
+4 4 4 4 
+5 5 5 5 5 
+1	2	3	4	5	6	7	8	9	10	
+2	4	6	8	10	12	14	16	18	20	
+3	6	9	12	15	18	21	24	27	30	
+4	8	12	16	20	24	28	32	36	40	
+5	10	15	20	25	30	35	40	45	50	
+6	12	18	24	30	36	42	48	54	60	
+7	14	21	28	35	42	49	56	63	70	
+8	16	24	32	40	48	56	64	72	80	
+9	18	27	36	45	54	63	72	81	90	
+10	20	30	40	50	60	70	80	90	100	
+Temperatures in Celsius: [ 117.5  -165.63  -47.9     2.83   45.03 -184.7 ]
+Full DataFrame:
+    Student Hair Color Eye Color  Weight (kg)
+0     Tommy      Brown     Hazel           60
+1      Fred       Grey     Green           80
+2      Gail     Blonde      Blue           76
+3  Tahmidul      Black     Brown           60
+4     Randy      Black     Hazel           88
+5     Ariel      Brown      Blue           85
+
+Hair Color Column (Series):
+0     Brown
+1      Grey
+2    Blonde
+3     Black
+4     Black
+5     Brown
+Name: Hair Color, dtype: object
+
+Eye Color Column (DataFrame):
+  Eye Color
+0     Hazel
+1     Green
+2      Blue
+3     Brown
+4     Hazel
+5      Blue
+
+Student and Weight Columns:
+    Student  Weight (kg)
+0     Tommy           60
+1      Fred           80
+2      Gail           76
+3  Tahmidul           60
+4     Randy           88
+5     Ariel           85
+
+Second to Fourth Observations:
+    Student Hair Color Eye Color  Weight (kg)
+1      Fred       Grey     Green           80
+2      Gail     Blonde      Blue           76
+3  Tahmidul      Black     Brown           60
